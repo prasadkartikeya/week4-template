@@ -1,4 +1,4 @@
-
+#code 
 # Write code below here
 n = int(input("enter number: "))
 if(n<=0):
