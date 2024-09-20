@@ -1,4 +1,4 @@
-#code 
+#code for fib
 # Write code below here
 n = int(input("enter number: "))
 if(n<=0):
@@ -14,3 +14,4 @@ if(n>=2):
         a=b
         b=c
 # Print the n'th fibon
+#code submission

@@ -15,7 +15,7 @@ for i in range(1000):
         total = total + i 
         print(total)
 #Sum of all the multiples of 3 or 5 below 1000 =233168
-
+#ssubmission
 
  
     

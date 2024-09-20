@@ -7,4 +7,4 @@ for i in range (2,n):
     else:
         print(n,"is a prime number")
 # Print the n'th prime number
- 
+ #submission
